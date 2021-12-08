@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryLib", "MemoryLib\MemoryLib.csproj", "{077032F5-AA19-4559-AB26-B4244FEFF132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{E8E3D341-64D8-4FEF-B559-A49B13291661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077032F5-AA19-4559-AB26-B4244FEFF132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077032F5-AA19-4559-AB26-B4244FEFF132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077032F5-AA19-4559-AB26-B4244FEFF132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077032F5-AA19-4559-AB26-B4244FEFF132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E3D341-64D8-4FEF-B559-A49B13291661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E3D341-64D8-4FEF-B559-A49B13291661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E3D341-64D8-4FEF-B559-A49B13291661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E3D341-64D8-4FEF-B559-A49B13291661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

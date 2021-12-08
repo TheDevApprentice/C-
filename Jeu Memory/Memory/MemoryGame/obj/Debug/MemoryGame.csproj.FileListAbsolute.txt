@@ -1,0 +1,12 @@
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\bin\Debug\MemoryLib.dll
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\bin\Debug\MemoryLib.pdb
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.frmMain.resources
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.csproj.CopyComplete
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryGame\obj\Debug\MemoryGame.pdb

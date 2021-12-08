@@ -1,0 +1,9 @@
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\bin\Debug\MemoryLib.dll
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\bin\Debug\MemoryLib.pdb
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.csproj.AssemblyReference.cache
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.frmDownloadPicture.resources
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.Memory.resources
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.csproj.GenerateResource.cache
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.csproj.CoreCompileInputs.cache
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.dll
+C:\Users\hugoe\Desktop\c#\memory\Memory\MemoryLib\obj\Debug\MemoryLib.pdb

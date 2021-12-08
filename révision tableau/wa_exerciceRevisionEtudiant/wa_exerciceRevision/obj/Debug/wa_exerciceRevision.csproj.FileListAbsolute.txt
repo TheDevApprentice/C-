@@ -1,0 +1,48 @@
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe.config
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.pdb
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csprojAssemblyReference.cache
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.Properties.Resources.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.GenerateResource.cache
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.CoreCompileInputs.cache
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.exe
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.pdb
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm1dimension.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm2dimensions.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevision\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frmMenu.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe.config
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.pdb
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csprojAssemblyReference.cache
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm1dimension.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm2dimensions.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frmMenu.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.Properties.Resources.resources
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.GenerateResource.cache
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.CoreCompileInputs.cache
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.exe
+C:\Luce apres a2017\a2020\introduction à la programmation A20\tableau\sansObjet2020\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.pdb
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe.config
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.pdb
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csprojAssemblyReference.cache
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm1dimension.resources
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm2dimensions.resources
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frmMenu.resources
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.Properties.Resources.resources
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.GenerateResource.cache
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.CoreCompileInputs.cache
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.exe
+C:\LuceApresH2021\A2021\introductionProgrammationa2021\tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.pdb
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe.config
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.pdb
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.AssemblyReference.cache
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm1dimension.resources
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm2dimensions.resources
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frmMenu.resources
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.Properties.Resources.resources
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.GenerateResource.cache
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.CoreCompileInputs.cache
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.exe
+C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.pdb

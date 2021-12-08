@@ -1,0 +1,10 @@
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\bin\Release\jeu memory.exe.config
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\bin\Release\jeu memory.exe
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\bin\Release\jeu memory.pdb
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu memory.csproj.AssemblyReference.cache
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu_memory.Form1.resources
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu_memory.Properties.Resources.resources
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu memory.csproj.GenerateResource.cache
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu memory.csproj.CoreCompileInputs.cache
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu memory.exe
+C:\Users\hugoe\Desktop\c#\devoir jeux memoru\jeu memory\jeu memory\jeu memory\obj\Release\jeu memory.pdb
