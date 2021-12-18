@@ -33,28 +33,33 @@ namespace wa_exerciceRevision
 
         private void btnCumulatif_Click(object sender, EventArgs e)
         {
-            //int[] tableauCumulatif = new int[1000];
-            //tableauCumulatif = fabriqueCumulatif(tableau);
-            //affiche(tableauCumulatif);
+            int[] tableauCumulatif = new int[1000];
+            tableauCumulatif = fabriqueCumulatif(tableau);
+            affiche(tableauCumulatif);
         }
-        private void fabriqueCumulatif(int[] tableau)
+        private int[] fabriqueCumulatif(int[] tableau)
         {
-            //    int[] temp = new int[tableau.GetLength(0)];
+            int temp;
+           
+            int cumulatifs = 0;
+            int[] cumulatif = new int[tableau.GetUpperBound(0)];
 
-            //        for (int i = 0; i < tableau.Length; i++)
-            //        {
-            //             temp = tableau[i];
 
-            //        }
+            for (int i = 0; i < tableau.GetUpperBound(0); i++)
+            {
+                temp = tableau[i];
 
-            //    return temp;
+                if (i > 0)
+                {
+                    cumulatifs = cumulatif[i - 1];
+                }
+
+                cumulatif[i] = temp + cumulatifs;
+            }
+
+            return cumulatif;
         }
-    private void btnCombien_Click(object sender, EventArgs e)
-        {
-            //int[] tableau = combienNombre(txtNombre.Text);
-            affiche(tableau);
-        }
-
+  
 
         private void btnInverse_Click(object sender, EventArgs e)
         {
@@ -64,44 +69,39 @@ namespace wa_exerciceRevision
         {
             int temp;
             int[] temps = tableau;
+
             for (int i = 0; i < temps.GetLength(0) / 2; i++)
             {
                 temp = temps[i];
                 temps[i] = temps[temps.GetUpperBound(0) - i];
                 temps[temps.GetUpperBound(0) - i] = temp;
-                _
             }
+
             affiche(temps);
         }
 
         private void btnCherche_Click(object sender, EventArgs e)
         {
             int imputUser = int.Parse(txtCherche.Text);
-           
+
             recherche(tableau, imputUser);
 
         }
         private void recherche(int[] tableau, int ImputUser)
         {
-            int temp = 0;
-            int i; 
-            for ( i = 0; i < tableau.Length; i++)
+            int temp = -1;
+            int i = 0;
+            bool trouver = false; 
+
+            while (i <= tableau.Length && trouver == false)
             {
-                
                 if (tableau[i] == ImputUser)
                 {
                      temp = i;
-                    if (ImputUser != tableau[i])
-                    {
-
-
-                    }
-                    else
-                    {
-
-                    }
+                    trouver = true;
+                  
                 }
-              
+                i++;
             }
           
             txtCherche.Text = temp.ToString();

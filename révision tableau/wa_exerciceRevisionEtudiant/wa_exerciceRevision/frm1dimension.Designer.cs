@@ -91,7 +91,7 @@
             this.btnCombien.TabIndex = 4;
             this.btnCombien.Text = "combien de nombres";
             this.btnCombien.UseVisualStyleBackColor = true;
-            this.btnCombien.Click += new System.EventHandler(this.btnCombien_Click);
+         
             // 
             // txtNombre
             // 

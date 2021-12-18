@@ -46,3 +46,15 @@ C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevis
 C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.CoreCompileInputs.cache
 C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.exe
 C:\Users\hugoe\Desktop\c#\révision\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.pdb
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.AssemblyReference.cache
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm1dimension.resources
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frm2dimensions.resources
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.frmMenu.resources
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.Properties.Resources.resources
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.GenerateResource.cache
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.csproj.CoreCompileInputs.cache
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.exe
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\obj\Debug\wa_exerciceRevision.pdb
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe.config
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.exe
+C:\Users\hugoe\Documents\GitHub\C-\révision tableau\wa_exerciceRevisionEtudiant\wa_exerciceRevision\bin\Debug\wa_exerciceRevision.pdb
